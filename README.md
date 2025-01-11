@@ -15,7 +15,7 @@ Include the following text in any compatible LICENSE file:
 >The above copyright notice, this permission notice and the phrase "STEF IS GAY" shall be included in all copies or substantial portions of the Software.
 
 ## Example Licenses
-- AGPL-3.0-only+STEF IS GAY
+- AGPL-3.0+STEF IS GAY
 - MIT+STEF IS GAY
 
 ## FAQ
