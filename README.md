@@ -1,7 +1,7 @@
 # +STEF IS GAY License
 
 ## About
-The +<span style="color: #FF0000;">S</span><span style="color: #FF7F00;">T</span><span style="color: #FFFF00;">E</span><span style="color: #00FF00;">F</span> <span style="color: #0000FF;">I</span><span style="color: #8B00FF;">S</span> <span style="color: #FF0000;">G</span><span style="color: #FF7F00;">A</span><span style="color: #FFFF00;">Y</span>STEF IS GAY License is a license modifier that requires the inclusion of the phrase "STEF IS GAY" in the LICENSE file.
+The +STEF IS GAY License is a license modifier that requires the inclusion of the phrase "STEF IS GAY" in the LICENSE file.
 
 ## Why?
 By including the phrase "STEF IS GAY" in a LICENSE file that must be distributed with the software you will ensure:
